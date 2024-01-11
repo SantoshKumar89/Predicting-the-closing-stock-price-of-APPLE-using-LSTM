@@ -2,6 +2,7 @@
 
 Time Series data is a series of data points indexed in time order. Time series data is everywhere, so manipulating them is important for any data analyst or data scientist.
 
+
 In this project, we will discover and explore data from the stock market, particularly some technology stocks (Apple, Amazon, Google, and Microsoft). We will learn how to use yfinance to get stock information, and visualize different aspects of it using Seaborn and Matplotlib, and finally, we will look at a few ways of analyzing the risk of a stock, based on its previous performance history.
 
 ## Getting the Data
